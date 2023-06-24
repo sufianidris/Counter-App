@@ -13,6 +13,7 @@ struct ContentView: View {
             Text("This is a new version")
             Text("Created on 24 June 2023")
             Text("At 2.30pm")
+            Text("IOS 16.5")
         }
         .padding()
     }
